@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bansxf.github.io/about/</loc>
-    <lastmod>2022-12-02T20:38:00+08:00</lastmod>
+    <loc>https://bansxf.github.io/categories/</loc>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/categories/git/</loc>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/posts/</loc>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/tags/</loc>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/posts/git/%E6%B8%85%E9%99%A4%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E5%AF%86%E7%A0%81/</loc>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
+    <lastmod>2022-12-03T18:52:43+08:00</lastmod>
   </url><url>
-    <loc>https://bansxf.github.io/categories/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
+    <loc>https://bansxf.github.io/about/</loc>
+    <lastmod>2022-12-02T20:38:00+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/tags/csrf/</loc>
     <lastmod>2022-12-02T20:24:14+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/posts/web%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E/csrf%E6%BC%8F%E6%B4%9E/</loc>
     <lastmod>2022-12-02T20:24:14+08:00</lastmod>
-  </url><url>
-    <loc>https://bansxf.github.io/posts/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
-  </url><url>
-    <loc>https://bansxf.github.io/tags/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/categories/web%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E/</loc>
     <lastmod>2022-12-02T20:30:10+08:00</lastmod>
@@ -33,19 +42,16 @@
     <lastmod>2022-12-02T20:30:10+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/categories/hugo/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
+    <lastmod>2022-12-03T18:52:15+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/posts/hugo/hugo%E5%9B%BE%E7%89%87%E6%8F%92%E5%85%A5%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2022-12-02T20:54:37+08:00</lastmod>
   </url><url>
-    <loc>https://bansxf.github.io/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2022-12-02T20:54:37+08:00</lastmod>
-  </url><url>
     <loc>https://bansxf.github.io/tags/blog/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
+    <lastmod>2022-12-03T18:52:15+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/posts/hugo/%E6%90%AD%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-12-03T09:54:10+08:00</lastmod>
+    <lastmod>2022-12-03T18:52:15+08:00</lastmod>
   </url><url>
     <loc>https://bansxf.github.io/posts/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/google-hacking/</loc>
     <lastmod>2022-12-02T20:21:00+08:00</lastmod>
@@ -55,5 +61,11 @@
   </url><url>
     <loc>https://bansxf.github.io/tags/%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2022-12-02T20:21:00+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/categories/hexo/</loc>
+    <lastmod>2022-12-03T10:52:08+08:00</lastmod>
+  </url><url>
+    <loc>https://bansxf.github.io/posts/hexo/%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-12-03T10:52:08+08:00</lastmod>
   </url>
 </urlset>
